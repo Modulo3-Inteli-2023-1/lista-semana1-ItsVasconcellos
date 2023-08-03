@@ -5,7 +5,7 @@
 
 
 # Crie a função que será avaliada no exercício aqui
-def multipla_operacoes(n1,n2):
+def multiplas_operacoes(n1,n2):
     soma = n1 + n2
     subtracao = n1 - n2
     multiplicacao = n1 * n2 
