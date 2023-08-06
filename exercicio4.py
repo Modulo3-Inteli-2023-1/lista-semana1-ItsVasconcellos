@@ -1,9 +1,5 @@
+# Fernando A. S. C. de Vasconcellos - Turma 9
 #  Se achar necessario, faça import de outras bibliotecas
-
-
-
-
-
 # Crie a função que será avaliada no exercício aqui
 def tem_duplicados(lista):
     elementos_vistos = []
